@@ -13,8 +13,9 @@ The database schema and initial seed data are automatically loaded from db/init/
 2. Run all SQL files located in db/init/ in the correct order.
 3. Copy .env.example to .env and update the database configuration.
 4. Install dependencies and start the application:
-5. 
+
 npm install
+
 npm run dev
 
 Open: http://localhost:3000
