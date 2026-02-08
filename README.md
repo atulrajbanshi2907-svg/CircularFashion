@@ -5,7 +5,9 @@
 2. In the project folder, run:
 3. docker compose up --build
 4. Open in browser: http://localhost:3000
+
 The MySQL database runs on host port 3307 (container port is 3306).
+
 The database schema and initial seed data are automatically loaded from db/init/.
 
 # Run without Docker
